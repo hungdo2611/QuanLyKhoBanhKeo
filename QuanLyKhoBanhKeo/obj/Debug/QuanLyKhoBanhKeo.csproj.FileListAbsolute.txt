@@ -1,0 +1,11 @@
+c:\users\abc\documents\visual studio 2015\Projects\QuanLyKhoBanhKeo\QuanLyKhoBanhKeo\bin\Debug\QuanLyKhoBanhKeo.exe.config
+c:\users\abc\documents\visual studio 2015\Projects\QuanLyKhoBanhKeo\QuanLyKhoBanhKeo\bin\Debug\QuanLyKhoBanhKeo.exe
+c:\users\abc\documents\visual studio 2015\Projects\QuanLyKhoBanhKeo\QuanLyKhoBanhKeo\bin\Debug\QuanLyKhoBanhKeo.pdb
+c:\users\abc\documents\visual studio 2015\Projects\QuanLyKhoBanhKeo\QuanLyKhoBanhKeo\obj\Debug\QuanLyKhoBanhKeo.csprojResolveAssemblyReference.cache
+c:\users\abc\documents\visual studio 2015\Projects\QuanLyKhoBanhKeo\QuanLyKhoBanhKeo\obj\Debug\QuanLyKhoBanhKeo.Properties.Resources.resources
+c:\users\abc\documents\visual studio 2015\Projects\QuanLyKhoBanhKeo\QuanLyKhoBanhKeo\obj\Debug\QuanLyKhoBanhKeo.csproj.GenerateResource.Cache
+c:\users\abc\documents\visual studio 2015\Projects\QuanLyKhoBanhKeo\QuanLyKhoBanhKeo\obj\Debug\QuanLyKhoBanhKeo.exe
+c:\users\abc\documents\visual studio 2015\Projects\QuanLyKhoBanhKeo\QuanLyKhoBanhKeo\obj\Debug\QuanLyKhoBanhKeo.pdb
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\QuanLyKhoBanhKeo\QuanLyKhoBanhKeo\obj\Debug\QuanLyKhoBanhKeo.FormMain.resources
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\QuanLyKhoBanhKeo\QuanLyKhoBanhKeo\obj\Debug\QuanLyKhoBanhKeo.QLNV.resources
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\QuanLyKhoBanhKeo\QuanLyKhoBanhKeo\obj\Debug\QuanLyKhoBanhKeo.HangHoa.resources
